@@ -1,7 +1,7 @@
-7465769451674223633
+7465769451674223633:https://raw.githubusercontent.com/logopek/titiu/refs/heads/main/imgs/hz.png
 7591073581766181921
 7018605379999646725:https://raw.githubusercontent.com/logopek/titiu/refs/heads/main/imgs/7018605379999646725.png
 7191618228870202370:https://raw.githubusercontent.com/logopek/titiu/refs/heads/main/imgs/7191618228870202370.png
-6845853735340753926
-7262992133450482730
-6784748111338488838
+6845853735340753926:https://raw.githubusercontent.com/logopek/titiu/refs/heads/main/imgs/designer.png
+7262992133450482730:https://raw.githubusercontent.com/logopek/titiu/refs/heads/main/imgs/dev.png
+6784748111338488838:https://raw.githubusercontent.com/logopek/titiu/refs/heads/main/imgs/supporter.png
