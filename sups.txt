@@ -9,7 +9,7 @@
       "badgeUrl": "supporter"
     },
     {
-      "uid": "7018605379999646725",
+      "uid": "7617524567359210518",
       "badgeUrl": "https://raw.githubusercontent.com/logopek/titiu/refs/heads/main/imgs/7018605379999646725.png",
       "tinted": false
     },
