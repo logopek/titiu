@@ -2,7 +2,7 @@
     {
       "uid": "7465769451674223633",
       "isDeveloper": true,
-      "badgeUrl": "developer"
+      "badgeUrl": "developer",
       "text": "shishka says hi!"
     },
     {
