@@ -3,6 +3,7 @@
       "uid": "7465769451674223633",
       "isDeveloper": true,
       "badgeUrl": "developer"
+      "text": "shishka says hi!"
     },
     {
       "uid": "7591073581766181921",
